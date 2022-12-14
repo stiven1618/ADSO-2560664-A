@@ -1,3 +1,4 @@
+#hecho por carol yate
 def residuo(a,b):
     while not (b==0):
         c=a
