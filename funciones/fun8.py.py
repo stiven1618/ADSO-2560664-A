@@ -1,3 +1,4 @@
+#hecho por carol yate
 import random
 def tamlista(vector):
     tam=round(random.randrange(10,25))
