@@ -1,3 +1,4 @@
+#nocodigo hecho por carol yate
 spotify={}
 def artista(spotify):
     artista=input("ingrese el artista: ")
