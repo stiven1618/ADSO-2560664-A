@@ -1,3 +1,4 @@
+#hecho por joel
 import random
 vector=[round(random.random()*100)for i in range(10)]
 print(vector)
