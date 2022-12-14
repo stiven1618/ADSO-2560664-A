@@ -1,3 +1,4 @@
+#hecho por joel oliveros 
 cont=0
 for j in range (1,1000+1):
     suma= 0
