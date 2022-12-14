@@ -1,3 +1,4 @@
+#hecho por angelo
 import random
 tam=1
 list=[]
