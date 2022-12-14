@@ -1,3 +1,4 @@
+#hecho por carol yate
 def nota(num):
     if num > 11:
         print("valor erroneo")
