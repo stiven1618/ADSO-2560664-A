@@ -1,4 +1,4 @@
-
+#hecho por joel oliveros 
 from math import trunc
 
 for j in range (1,1000,1):
