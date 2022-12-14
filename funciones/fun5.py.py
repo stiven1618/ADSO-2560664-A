@@ -1,4 +1,4 @@
-
+#hecho por carol yate
 def iguales(a,b,c):
     numero1=0
     numero2=0
