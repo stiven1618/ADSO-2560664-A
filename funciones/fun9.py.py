@@ -1,3 +1,4 @@
+#hecho por carol yate
 import random
 def llenar_lista(lista):
     lista=[round(random.randrange(100))for i in range(random.randint(10,25))]
