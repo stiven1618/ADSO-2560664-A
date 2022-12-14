@@ -1,3 +1,4 @@
+#hecho por joel oliveros
 # Llenar una lista de tamaño aleatorio entre 10 y 25 elementos. Llene la lista con números
 #3aleatorios. De cada elemento de la lista diga si el elemento está por encima del promedio, debajo
 #del promedio o es igual al promedio de todos los números de la lista."""
