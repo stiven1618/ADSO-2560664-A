@@ -1,3 +1,4 @@
+#hecho por joel oliveros
 num = int(input("Ingresa un número : "))
 if num>0:
     print ("los divisores son : ")
