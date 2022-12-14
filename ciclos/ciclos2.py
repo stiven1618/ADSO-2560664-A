@@ -1,5 +1,5 @@
+#hecho por joel oliveros
 #"""2.	Determinar si un numero es o no es primo."""...........
-
 num = int(input("ingresa un número : "))
 cont = 0
 for i in range (2,num,1):
