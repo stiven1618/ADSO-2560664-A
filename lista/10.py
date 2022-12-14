@@ -1,3 +1,4 @@
+#hecho por joel oliveros
 import random
 tam=round(random.randint(5,10))
 vec=[]
