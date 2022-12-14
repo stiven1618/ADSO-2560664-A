@@ -1,3 +1,4 @@
+#hecho por carol yate
 def trabajo(n):
     A = int(input("ingrese las horas trabajadas:"))
     B = float(A)
