@@ -1,4 +1,4 @@
-
+#hecho por carol yate
 def cifras(num):
     if num<0 and num>9999:
         print("el numero ingresado es invalido")
