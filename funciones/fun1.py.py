@@ -1,3 +1,4 @@
+#hecho por carol yate
 def numero(num):
     r = 0
     n = int(input("Ingrse un numero de hasta 9 cifras: "))
