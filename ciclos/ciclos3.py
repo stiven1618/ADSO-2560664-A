@@ -1,3 +1,4 @@
+#hecho por joel oliveros
 from math import trunc
 
 num = int(input("Ingresa un número : "))
